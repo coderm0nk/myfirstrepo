@@ -1,2 +1,3 @@
 # myfirstrepo
-A test repo
+A test repo.
+some new changes.
